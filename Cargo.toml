@@ -1,0 +1,8 @@
+[package]
+name = "xip"
+version = "0.1.0"
+authors = ["Paul Piraat <info@paulboelens.com>"]
+
+[dependencies]
+pnet = "0.21.0"
+xcb = "0.8.2"
